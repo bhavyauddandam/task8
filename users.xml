@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="user.xsl"?>
+<users>
+<user>
+ <id>0815</id>
+ <role> student</role>
+ <name>Bhavya sri</name>
+ <email>bhavya@gmail.com</email>
+</user>
+
+<user>
+<id>0825</id>
+<role> student</role>
+ <name>navya sri</name>
+ <email>navya@gmail.com</email>
+</user>
+<user>
+<id>1836</id>
+<role> student</role>
+ <name>Vishal kemburu</name>
+ <email>kvishal@gmail.com</email>
+</user>
+<user>
+<id>0788</id>
+<role> student</role>
+ <name>Vishnu</name>
+ <email>Vishnu@gmail.com</email>
+</user>
+<user>
+<id>0</id>
+<role> student</role>
+ <name>poojitha</name>
+ <email>poojitha@gmail.com</email>
+</user>
+<user>
+<id>0515</id>
+<role> student</role>
+ <name>chaithu</name>
+ <email>chaithu@gmail.com</email>
+</user>
+<user>
+<id>4815</id>
+<role> faculty</role>
+ <name>suresh kumar</name>
+ <email>sureshkumar@gmail.com</email>
+</user>
+<user>
+<id>3815</id>
+<role> faculty</role>
+ <name>padmavathi</name>
+ <email>padma@gmail.com</email>
+</user>
+<user>
+<id>1815</id>
+<role> faculty</role>
+ <name>padmavathi</name>
+ <email>padma@gmail.com</email>
+</user>
+
+<user>
+<id>2815</id>
+<role>faculty</role>
+ <name>sri lakshmi</name>
+ <email>lakshmi@gmail.com</email>
+</user>
+
+
+</users>
